@@ -45,3 +45,20 @@
         <li><code>Credit_Score</code>: The credit score of the person</li>
     </ul>
 </p>
+
+<hr>
+
+<h1>02. <a href="https://github.com/UTSAVS26/Machine-Learning-40-Projects/tree/main/02%20Weather%20Forecasting">Weather Forecasting</a></h1>
+
+<p>
+    <h2>Overview</h2>
+    <p>This repository focuses on weather forecasting using machine learning techniques. The dataset provides data from 1st January 2013 to 24th April 2017 in the city of Delhi, India. The 4 parameters included are:</p>
+    <ul>
+        <li><code>meantemp</code>: Mean temperature</li>
+        <li><code>humidity</code>: Humidity</li>
+        <li><code>wind_speed</code>: Wind speed</li>
+        <li><code>meanpressure</code>: Mean pressure</li>
+    </ul>
+</p>
+
+<hr>
