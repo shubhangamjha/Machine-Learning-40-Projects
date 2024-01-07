@@ -62,3 +62,26 @@
 </p>
 
 <hr>
+
+<h1>03. <a href=""https://github.com/UTSAVS26/Machine-Learning-40-Projects/tree/main/03%20Food%20Delivery%20Time%20Prediction">Food Delivery Time Prediction</a></h1>
+
+<p>
+    <h2>Overview</h2>
+    <p>This repository focuses on predicting food delivery time by calculating the distance between the point of picking up the order and the point of delivering the order. The prediction is based on the historical delivery time for similar distances covered by delivery partners.</p>
+    <h2>Dataset Features</h2>
+    <ul>
+        <li><code>ID</code>: Order ID number</li>
+        <li><code>Delivery_person_ID</code>: ID number of the delivery partner</li>
+        <li><code>Delivery_person_Age</code>: Age of the delivery partner</li>
+        <li><code>Delivery_person_Ratings</code>: Ratings of the delivery partner based on past deliveries</li>
+        <li><code>Restaurant_latitude</code>: The latitude of the restaurant</li>
+        <li><code>Restaurant_longitude</code>: The longitude of the restaurant</li>
+        <li><code>Delivery_location_latitude</code>: The latitude of the delivery location</li>
+        <li><code>Delivery_location_longitude</code>: The longitude of the delivery location</li>
+        <li><code>Type_of_order</code>: The type of meal ordered by the customer</li>
+        <li><code>Type_of_vehicle</code>: The type of vehicle the delivery partner rides</li>
+        <li><code>Time_taken(min)</code>: The time taken by the delivery partner to complete the order</li>
+    </ul>
+</p>
+
+<hr>
