@@ -85,3 +85,22 @@
 </p>
 
 <hr>
+
+<h1>04. <a href=""https://github.com/UTSAVS26/Machine-Learning-40-Projects/tree/main/04%20Time%20Series%20Forecasting%20with%20Arima">Time Series Forecasting using ARIMA</a></h1>
+
+<p>
+    <h2>Overview</h2>
+    <p>In my recent endeavor, I delved into the intriguing world of time series forecasting using the ARIMA model. Time series forecasting allows us to predict future data points based on historical patterns, unlocking valuable insights for decision-making.</p>
+    <h2>ARIMA - What is it?</h2>
+    <p>ARIMA (AutoRegressive Integrated Moving Average) is a powerful tool in time series analysis. It combines information from past observations, adjusts for trends, and accounts for seasonality to provide forecasts. Think of it as a reliable guide into what might happen next.</p>
+    <h2>Key Steps:</h2>
+    <ul>
+        <li><strong>Data Exploration:</strong> Uncovered hidden patterns and trends within historical data.</li>
+        <li><strong>ARIMA Model Implementation:</strong> Leveraged the ARIMA model to make predictions.</li>
+        <li><strong>Fine-Tuning Parameters:</strong> Adjusted model parameters for optimal performance.</li>
+    </ul>
+    <h2>Results:</h2>
+    <p>The ARIMA model provided valuable insights into future trends, helping me make informed decisions based on data-driven predictions.</p>
+</p>
+
+<hr>
