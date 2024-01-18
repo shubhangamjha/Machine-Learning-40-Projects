@@ -104,3 +104,25 @@
 </p>
 
 <hr>
+
+<h1>05. <a href=""https://github.com/UTSAVS26/Machine-Learning-40-Projects/tree/main/05%20Instagram%20Reach%20Analysis">Instagram Reach Analysis</a></h1>
+
+<h2>Project Overview 📈</h2>
+
+<p>This project focuses on analyzing key Instagram metrics, including:</p>
+
+<ul>
+    <li><code>Impressions:</code> Uncover the total reach of a post.</li>
+    <li><code>From Home:</code> Explore reach from users' home feeds.</li>
+    <li><code>From Hashtags:</code> Examine reach attributed to hashtags.</li>
+    <li><code>From Explore:</code> Understand reach originating from the Explore page.</li>
+    <li><code>From Other:</code> Explore reach from various other sources.</li>
+    <li><code>Saves:</code> Measure the number of times the post was saved.</li>
+    <li><code>Comments:</code> Evaluate the level of audience interaction.</li>
+    <li><code>Shares:</code> Assess virality through the number of shares.</li>
+    <li><code>Likes:</code> Gauge the overall popularity of the post.</li>
+    <li><strong>Profile Visits:</strong> Track the impact on profile visits.</li>
+    <li><strong>Follows:</strong> Count the new followers gained from the post.</li>
+</ul>
+
+<hr>
