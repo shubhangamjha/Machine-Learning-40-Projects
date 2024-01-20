@@ -356,3 +356,26 @@
 </p>
 
 <hr>
+
+<h1>07. <a href = "https://github.com/UTSAVS26/Machine-Learning-40-Projects/tree/main/07%20Website%20Traffic%20Forecasting">Forecasting Website Traffic</a></h1>
+
+<p>
+  <h2>Project Overview 📈</h2>
+  <p>In this project, we aim to enhance business preparedness by forecasting website traffic through the analysis of a year's worth of daily data, including the date and total views. By leveraging historical patterns, we seek to provide insights that enable proactive marketing strategies to address anticipated fluctuations in website traffic. Below are the key columns in the dataset:</p>
+  <table>
+    <tr>
+        <th>Column</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><code>Date</code></td>
+        <td>Date of the record</td>
+    </tr>
+    <tr>
+        <td><code>Views</code></td>
+        <td>Total number of views in the day</td>
+    </tr>
+  </table>
+</p>
+
+<hr>
